@@ -13,6 +13,8 @@ import ColorSwitcher from '../elements/switcher/ColorSwitcher';
 import SectionTitle from '../elements/section-title/SectionTitle';
 import ServicePropOne from '../component/service/ServicePropOne';
 import CounterUpOne from '../component/counterup/CounterUpOne';
+import ProcessOne from '../component/process/ProcessOne';
+
 
 
 
@@ -51,6 +53,7 @@ const HomeStartup = () => {
         <BlogOne />
 
         <CounterUpOne />
+        <ProcessOne />
 
         <CtaLayoutOne />
         <FooterOne />

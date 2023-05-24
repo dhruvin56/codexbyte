@@ -19,8 +19,8 @@ const AboutFour = () => {
                         <div className="section-heading heading-left">
                             <span className="subtitle">Who we are</span>
                             <h2 className="title">Building software for world changers</h2>
-                            <p>Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis.</p>
-                            <p>Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.</p>
+                            <p>Codexbyte Infotech is based in Surat, Gujarat. A city that is perfect for software nearshoring because of its location and time zone.</p>
+                            <p>We are well-known for providing high-quality, dependable, and timely delivery of IT services with tailor-made requirements for all facets of the business development to a vast collection of clientele. We have professional developers with extensive industry knowledge and abilities to analyze your company's requirements and build the best solution for you. We provide feature-rich IT solutions that improve the user experience while also assisting you in establishing market authority and expanding your brand.</p>
                             <Link to="#" className="axil-btn btn-fill-primary btn-large">Read More</Link>
                         </div>
                         <div className="case-study-counterup">

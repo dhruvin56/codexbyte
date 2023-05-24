@@ -3,29 +3,33 @@
     {
         "id": 1,
         "thumb": "/images/others/process-1.png",
+        "style":"#41516C",
         "subtitle": "Step One",
-        "title": "Discover",
-        "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        "title": "Project Analysis",
+        "paragraph": "Each project starts with requirement analysis and market research. We understand the client’s product idea and suggest the best features and technologies based on the feasibility of the product and market demands."
     },
     {
         "id": 2,
         "thumb": "/images/others/process-2.png",
+        "style":"#FBCA3E",
         "subtitle": "Step Two",
-        "title": "Prototype",
-        "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        "title": "Designing",
+        "paragraph": "After knowing your requirements, our creative UI/UX designers will create a highly responsive, fully customized, and interactive design of your web or app from scratch."
     },
     {
         "id": 3,
         "thumb": "/images/others/process-3.png",
+        "style":"#4CADAD",
         "subtitle": "Step Three",
-        "title": "Test",
-        "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        "title": "Development",
+        "paragraph": "Our talented developers use the latest technologies and powerful frameworks to build highly efficient, feature-rich, and fully functional web and apps with high-quality coding."
     },
     {
         "id": 4,
         "thumb": "/images/others/process-4.png",
+        "style":"#E24A68",
         "subtitle": "Step four",
-        "title": "Build",
-        "paragraph": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris."
+        "title": "Testing",
+        "paragraph": "Our QA Testers perform in-depth testing of all features to ensure your web or app is free from bugs and works at its best to deliver an exceptional user experience."
     }
 ]

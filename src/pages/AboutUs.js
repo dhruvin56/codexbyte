@@ -5,7 +5,6 @@ import SEO from '../common/SEO';
 import BcrumbBannerOne from '../elements/breadcrumb/BcrumbBannerOne';
 import CtaLayoutOne from '../component/cta/CtaLayoutOne';
 import ColorSwitcher from '../elements/switcher/ColorSwitcher';
-import ProcessOne from '../component/process/ProcessOne';
 import AboutThree from '../component/about/AboutThree';
 import AboutFour from '../component/about/AboutFour';
 import AboutFive from '../component/about/AboutFive';
@@ -27,8 +26,7 @@ const AboutUs = () => {
                 />
                 <AboutFour />
                 <AboutThree />
-                <AboutFive />
-                <ProcessOne />
+                {/* <AboutFive /> */}
                 <CtaLayoutOne />
                 <FooterOne parentClass="" />
             </main>

@@ -344,21 +344,21 @@
                 width: 60%;
                 margin-bottom: 50px;
                 @media #{$laptop-device} {
-                    font-size: 60px;
-                    width: 55%;
+                    font-size: 56px;
+                    width: 60%;
                 }
                 @media #{$smlg-device} {
-                    font-size: 60px;
+                    font-size: 56px;
                 }
                 @media #{$md-layout} {
-                    font-size: 50px;
+                    font-size: 60px;
                     width: 100%;
                 }
                 @media #{$sm-layout} {
-                    font-size: 40px;
+                    font-size: 38px;
                 }
                 @media #{$large-mobile} {
-                    font-size: 40px;
+                    font-size: 34px;
                     margin-bottom: 30px;
                 }
             }

@@ -37,10 +37,7 @@ const ServiceDetails = () => {
             paragraph ={detailsService.description}
             styleClass=""
             mainThumb="/images/banner/banner-thumb-4.png"
-            />
-            <AboutTwo />
-           
-            <ProcessOne />
+            /> 
             <div className="section section-padding">
                 <div className="container">
                     <SectionTitle 
@@ -63,6 +60,7 @@ const ServiceDetails = () => {
                     <li className="shape shape-3"><img src={process.env.PUBLIC_URL + "/images/others/bubble-1.png"} alt="Line" /></li>
                 </ul>
             </div>
+            <ProcessOne />
             <CtaLayoutOne />
         <FooterOne parentClass="" />
         </main>

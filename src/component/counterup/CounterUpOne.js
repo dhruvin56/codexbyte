@@ -9,8 +9,8 @@ const CounterUpOne = () => {
             <div className="container">
             <SectionTitle 
                     subtitle="Featured Case Study"
-                    title="Design startup movement"
-                    description="In vel varius turpis, non dictum sem. Aenean in efficitur ipsum, in egestas ipsum. Mauris in mi ac tellus."
+                    title="Our Achievements"
+                    description="We help you achieve the right balance between resolving business challenges, adapting to new demands, & accelerating your digital journey! We build efficient software solutions to help you convert your idea into reality. From Designing to Developing to Testing & Maintaining - We collaborate with you at every stage of your software building or digital transformation journey. With a custom agile approach, we optimize your journey to accelerate business outcomes."
                     textAlignment="heading-light"
                     textColor=""
                 />

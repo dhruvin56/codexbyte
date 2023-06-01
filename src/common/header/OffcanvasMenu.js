@@ -18,7 +18,7 @@ const OffcanvasMenu = ({ offcanvasShow, offcanvasHide }) => {
                         <ul className="main-navigation list-unstyled">
                             <li><Link to={ "/"}>Home</Link></li>
                             <li><Link to={ "/service"}>Services</Link></li>
-                            <li><Link to={ "/project-grid-one"}>Portfolio-Portfolio</Link></li>
+                            <li><Link to={ "/project-grid-one"}>Portfolio</Link></li>
                             <li><Link to={ "/about-us"}>About us</Link></li>
                             <li><Link to={process.env.PUBLIC_URL + "/contact"}>Contact</Link></li>
                         </ul>
